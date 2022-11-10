@@ -13,3 +13,11 @@ console.log(birthDates)
 //This will remove the first boolean in the array
 wullyBooleans.shift()
 console.log(wullyBooleans)
+
+//In the variable places, Scotland is 0, New Zealand is 1, Japan is 2, Bhutan is 3
+
+//console.log(birthDates(2)) = 1984 
+console.log(birthDates[2])
+
+//console.log(wullyBooleans(0)) = 3 < 9 (True)
+console.log(wullyBooleans[0])
